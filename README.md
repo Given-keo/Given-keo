@@ -1,4 +1,3 @@
-# Hi! I'm Given Ezra Dominic Keo 👋
 
 ![Given-keo](img/header.png)
 
