@@ -53,12 +53,7 @@
 
 ---
 
-## 👾 Pacman Contribution Graph
 
-![Pacman contribution graph](https://raw.githubusercontent.com/Given-keo/Given-keo/output/pacman-contribution-graph.svg)
-
-
----
 
 ## 💡 Quote Favorit
 
