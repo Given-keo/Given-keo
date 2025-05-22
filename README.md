@@ -1,4 +1,4 @@
-
+## Hi👋, I'm Given Ezra Dominic Keo
 ![Given-keo](img/header.png)
 
 <!--
@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 -->
 
 
--  Saat Ini saya sedang bekerja freelance dengan tim sebagai seorang frondend web dan desain bordir komputer & mahasiswa IT
+-  Saat Ini saya sedang bekerja freelance dengan tim sebagai seorang frond-end web dan desainer bordir komputer, sekaligus seorang mahasiswa IT
 
-- Saat Ini saya Sedang dalam tahap belajar menjadi seorang fullstack. 
+- Saya Sedang dalam tahap belajar menjadi seorang fullstack. Saya tau ini bukan hal yang mudah, tapi saya percaya dengan kerja keras dan dedikasi saya bisa mencapai tujuan saya. 
 
-## Language
+### Language
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 
-## Framework & Library
+### Framework & Library
 <p>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/codecept%20js-F6E05E?style=for-the-badge&logo=codeceptjs&logoColor=000" />
@@ -47,5 +47,18 @@ Here are some ideas to get you started:
 </p>
 
 
-## Connect With Me
-![https://www.instagram.com/givenkeo](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+### Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/givenkeo)
+
+
+<img src="https://raw.githubusercontent.com/Given-keo/Given-keo/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Given-keo/Given-keo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Given-keo/Given-keo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Given-keo/Given-keo/output/pacman-contribution-graph.svg">
+</picture>
+
+###
