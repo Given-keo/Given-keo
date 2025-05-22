@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
--  Saat Ini saya sedang bekerja freelance dengan tim sebagai seorang frondend web & mahasiswa IT
+-  Saat Ini saya sedang bekerja freelance dengan tim sebagai seorang frondend web dan desain bordir komputer & mahasiswa IT
 
 - Saat Ini saya Sedang dalam tahap belajar menjadi seorang fullstack. 
 
