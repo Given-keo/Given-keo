@@ -8,7 +8,7 @@
 
 
 - Saya saat ini bekerja sebagai **freelancer front-end web developer bersama tim** dan **desainer bordir komputer**, serta aktif sebagai seorang **mahasiswa IT**.
-- Saya sedang belajar untuk menjadi **fullstack developer**. Saya tahu ini tidak mudah, tapi saya percaya dengan **kerja keras dan dedikasi**, saya bisa mencapainya.
+- Saat ini saya sedang belajar tentang **beckend, mobile, dan cloud**. Saya tahu ini tidak mudah, tapi saya percaya dengan **kerja keras dan dedikasi**, saya bisa mencapainya.
 
 ---
 
