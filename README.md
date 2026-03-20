@@ -1,68 +1,83 @@
-## Hi 👋, I'm Given Ezra Dominic Keo
+<h1 align="center">Hi 👋, I'm Given Ezra Dominic Keo</h1>
 
-![Given-keo](img/header.png)
-
----
-
-### ✍️ Tentang Saya
-
-
-- Saya saat ini bekerja sebagai **freelancer front-end web developer bersama tim** dan **desainer bordir komputer**, serta aktif sebagai seorang **mahasiswa IT**.
-
-
----
-
-### 💻 Bahasa
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<p align="center">
+  <img src="img/header.png" alt="Given-keo banner" />
 </p>
 
 ---
 
-### 🧩 Framework & Library
+## 🚀 About Me
 
+💻 I am a **Front-End Web Developer (Freelancer)** working collaboratively in a team environment.  
+🧵 I also work as a **Computer Embroidery Designer**, blending creativity with technology.  
+🎓 Currently an **IT Student**, continuously learning and building real-world projects.  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/codecept%20js-F6E05E?style=for-the-badge&logo=codeceptjs&logoColor=000" />
-  <img src="https://img.shields.io/badge/d3%20js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-  <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,json" />
+</p>
+
+### 🧩 Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,bootstrap,tailwind,sass,vite,express,laravel" />
+</p>
+
+### ⚙️ Others
+<p>
+  <img src="https://skillicons.dev/icons?i=xampp" />
+  <img src="https://img.shields.io/badge/CodeceptJS-F6E05E?style=for-the-badge&logo=codeceptjs&logoColor=000" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
 </p>
 
 ---
 
-### 📱 Connect With Me
+## 📊 GitHub Stats
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/givenkeo)
-
----
-
-## 🐍 Snake Contribution Animation
-
-![Snake animation](https://raw.githubusercontent.com/Given-keo/Given-keo/output/snake.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Given-keo&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Given-keo&theme=tokyonight" />
+</p>
 
 ---
 
+## 🌐 Connect With Me
 
-
-## 💡 Quote Favorit
-
-> "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing." – *Pelé*
+<p align="left">
+  <a href="https://www.instagram.com/givenkeo" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## Sekian Terima Kasih :)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Given-keo/Given-keo/output/snake.svg" />
+</p>
+
+---
+
+## 💡 Favorite Quote
+
+> *"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing."*  
+> — **Pelé**
+
+---
+
+## ⚡ Fun Fact
+
+- I love building real-world systems like POS & management apps  
+- I enjoy combining **design + logic** into functional products  
+- Always learning something new 🚀  
+
+---
+
+<p align="center">
+  ⭐ Don't forget to check out my repositories!
+</p>
